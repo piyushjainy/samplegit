@@ -1,0 +1,1 @@
+Q.1)  WAP for creating Bank class in JAVA.
