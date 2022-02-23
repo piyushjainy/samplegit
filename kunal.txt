@@ -1,1 +1,2 @@
 Q.1)  WAP for creating Bank class in JAVA.
+Q.2) WAP for creating CAR class in JAVA.
